@@ -1,0 +1,18 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "build.js",
+			"type": "node",
+			"runtimeArgs": [
+				"--nolazy"
+			],
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"args": [
+				"${workspaceFolder}/bin/build.js"
+			],
+			"envFile": "${workspaceFolder}/.env",
+		}
+	]
+}
