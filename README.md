@@ -42,4 +42,4 @@ docker run --rm -it \
 
 # Support
 
-- Maintained by: Dmitry Detukov
+- Maintained by: Dmitry Detukov.
